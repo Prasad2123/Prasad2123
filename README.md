@@ -10,14 +10,14 @@ I like building projects from scratch — from designing the UI to developing th
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🚀 What I'm Currently Working On
 
-🔹 **Web & App Development Projects**
-🔹 **Full-Stack applications using React, Node.js and Express**
-🔹 **Android applications using Kotlin, Jetpack Compose and Java**
-🔹 **Backend APIs, authentication and database systems**
-🔹 **AI-powered applications and automation workflows**
-🔹 **Real-world service management and productivity platforms**
+- 💻 **Web & App Development Projects**
+- 🌐 **Full-Stack Applications** using React, Node.js and Express
+- 📱 **Android Applications** using Kotlin, Jetpack Compose and Java
+- ⚙️ **Backend APIs, Authentication & Database Systems**
+- 🤖 **AI-Powered Applications & Automation Workflows**
+- 🛠️ **Real-World Service Management & Productivity Platforms**
 
 ---
 
